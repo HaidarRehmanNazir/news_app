@@ -7,6 +7,11 @@ Dazzling News Feed: Dive into a world of news with my visually stunning and dyna
 
 API Awesomeness: Newshut taps into cutting-edge news APIs, delivering a burst of real-time updates for an unparalleled news feast. 🔄🌟
 
+![App Screenshot]([https://blogger.googleusercontent.com/img/a/AVvXsEhWUr1aCpNOX36CU_uEcNEyJFzLgokziGU41LTDkJsD4apQDWthNyyNvOZkK5F6t3WQYKycHFlGQXU_j5gnCPjQs0iLZCWdtesOEnBViLULvAp2WTnmZpYgikGeDh7YdMgufiPetO3WKhITPPgkKOSme2LY1O9o1v6C8NVsZL2FK4eS2hu_GMMfmgyF](https://blogger.googleusercontent.com/img/a/AVvXsEhYpupn21Uc1_DaEpINY5DMdfcIisS0T0lu4vSOMnZ6pqaTuOIJli4tpqb0eWXUL390G6TWpqbxJn-1GJjxvMGal5SUYPgo2foDYsW9yA3K3ZYByrRsqa3JIJ40OYJcMebOMwM5cfjWsBb3AUZQEE6yRt1ZiUKZcf1lXUxMX08hJqrdtBjF2pC-WV2i))
+
+
+
+
 
 ![App Screenshot](https://blogger.googleusercontent.com/img/a/AVvXsEhWUr1aCpNOX36CU_uEcNEyJFzLgokziGU41LTDkJsD4apQDWthNyyNvOZkK5F6t3WQYKycHFlGQXU_j5gnCPjQs0iLZCWdtesOEnBViLULvAp2WTnmZpYgikGeDh7YdMgufiPetO3WKhITPPgkKOSme2LY1O9o1v6C8NVsZL2FK4eS2hu_GMMfmgyF)
 
