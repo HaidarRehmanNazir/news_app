@@ -1,16 +1,32 @@
-# news_app
 
-A new Flutter project.
+# 📰 Newshut - Flutter News App 📱
+Newshut is your go-to Flutter-powered news app,using news Apis delivering a vibrant and dynamic news experience right to your fingertips! 🚀
 
-## Getting Started
+Features 🌟:
+Dynamic News Feed: Access a comprehensive news feed with articles spanning various categories such as world news 🌐, technology 💻, sports ⚽, entertainment 🎬, and more.
 
-This project is a starting point for a Flutter application.
+API Integration: Newshut leverages cutting-edge news APIs to deliver accurate and up-to-date information, ensuring a seamless news consumption experience. 🔄
 
-A few resources to get you started if this is your first Flutter project:
+Customizable Preferences: Tailor your news experience by selecting preferred categories and sources. Newshut adapts to your interests, delivering personalized content for a more engaging user experience. 🛠️
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Responsive Design: Newshut is crafted with a responsive and user-friendly design, ensuring a smooth and visually appealing experience across various devices. 📐
+
+
+
+
+
+## Tech Stack
+
+**Client:** Flutter
+
+**Server:** News.org Api
+
+
+## Authors
+
+- [@Haidar Rehman](https://github.com/HaidarRehmanNazir)
+
+
+![Logo](https://blogger.googleusercontent.com/img/a/AVvXsEih0WQHewADi_lpx_SuGWgXvuI9NlFuRuxZn2aUJD_jwJ28m4AeMg1sgeEOzVP-GYOl7gzKTHR3_Rq8IMbXUdr35uFLpbXCs4_to5xs11z82eSjWhj5qfzKdkrfzJbJhw6j9iNlv_bOWCHGDrPCouXOz4WMyj6ewSi9DX9PAKcbh7B80RXuzPec-TBQ)
+
