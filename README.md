@@ -9,7 +9,8 @@ API Awesomeness: Newshut taps into cutting-edge news APIs, delivering a burst of
 
 
 
-![App Screenshot](https://blogger.googleusercontent.com/img/a/AVvXsEhYpupn21Uc1_DaEpINY5DMdfcIisS0T0lu4vSOMnZ6pqaTuOIJli4tpqb0eWXUL390G6TWpqbxJn-1GJjxvMGal5SUYPgo2foDYsW9yA3K3ZYByrRsqa3JIJ40OYJcMebOMwM5cfjWsBb3AUZQEE6yRt1ZiUKZcf1lXUxMX08hJqrdtBjF2pC-WV2i)
+ ![App Screenshot](https://blogger.googleusercontent.com/img/a/AVvXsEi1c7T8jFLDSrf7qLxcIhDvAriZP6iJLYmE2jf97_5T7jsThkT5l6sKVHq7l3QBfE9LNRrlgJKxj0Q02KhzTiXNCMPmqSfXTs5GdJ43tsIVqrHxMooCQvT5OiHJlIm-5bWjxPkgsmCxqwG0M1f0VoQxSB91cmnj2AQGIoinT1GASaGMWbB-Thi4kM8x)
+-----DOWNLOAD NEWS APP------
 
 
 
