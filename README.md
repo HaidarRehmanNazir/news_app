@@ -47,7 +47,7 @@ categories Like a Pro: Effortlessly find the news you crave with our slick searc
 Design that Pops: Immerse yourself in a sleek and user-friendly design that adapts seamlessly to your device. Because staying informed should look good too! 🎨📱
 
 
-<a href="">![App Screenshot](https://blogger.googleusercontent.com/img/a/AVvXsEi1c7T8jFLDSrf7qLxcIhDvAriZP6iJLYmE2jf97_5T7jsThkT5l6sKVHq7l3QBfE9LNRrlgJKxj0Q02KhzTiXNCMPmqSfXTs5GdJ43tsIVqrHxMooCQvT5OiHJlIm-5bWjxPkgsmCxqwG0M1f0VoQxSB91cmnj2AQGIoinT1GASaGMWbB-Thi4kM8x) </a>
+<a href="https://github.com/HaidarRehmanNazir/news_app/releases/download/Newshut/Newshut.apk">![App Screenshot](https://blogger.googleusercontent.com/img/a/AVvXsEi1c7T8jFLDSrf7qLxcIhDvAriZP6iJLYmE2jf97_5T7jsThkT5l6sKVHq7l3QBfE9LNRrlgJKxj0Q02KhzTiXNCMPmqSfXTs5GdJ43tsIVqrHxMooCQvT5OiHJlIm-5bWjxPkgsmCxqwG0M1f0VoQxSB91cmnj2AQGIoinT1GASaGMWbB-Thi4kM8x) </a>
 
 
 ## Tech Stack
