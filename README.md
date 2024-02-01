@@ -9,8 +9,8 @@ API Awesomeness: Newshut taps into cutting-edge news APIs, delivering a burst of
 
 
 
- ![App Screenshot](https://blogger.googleusercontent.com/img/a/AVvXsEi1c7T8jFLDSrf7qLxcIhDvAriZP6iJLYmE2jf97_5T7jsThkT5l6sKVHq7l3QBfE9LNRrlgJKxj0Q02KhzTiXNCMPmqSfXTs5GdJ43tsIVqrHxMooCQvT5OiHJlIm-5bWjxPkgsmCxqwG0M1f0VoQxSB91cmnj2AQGIoinT1GASaGMWbB-Thi4kM8x)
------DOWNLOAD NEWS APP------
+ 
+
 
 
 
@@ -45,6 +45,9 @@ Tailored for You: Personalize your news journey by handpicking categories and so
 categories Like a Pro: Effortlessly find the news you crave with our slick search functionality. Your news, your way, at your fingertips. 🔍💼
 
 Design that Pops: Immerse yourself in a sleek and user-friendly design that adapts seamlessly to your device. Because staying informed should look good too! 🎨📱
+
+
+![App Screenshot](https://blogger.googleusercontent.com/img/a/AVvXsEi1c7T8jFLDSrf7qLxcIhDvAriZP6iJLYmE2jf97_5T7jsThkT5l6sKVHq7l3QBfE9LNRrlgJKxj0Q02KhzTiXNCMPmqSfXTs5GdJ43tsIVqrHxMooCQvT5OiHJlIm-5bWjxPkgsmCxqwG0M1f0VoQxSB91cmnj2AQGIoinT1GASaGMWbB-Thi4kM8x)
 
 
 ## Tech Stack
